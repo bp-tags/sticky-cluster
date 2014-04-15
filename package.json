@@ -1,0 +1,22 @@
+{
+  "name": "sticky-cluster",
+  "version": "0.0.0",
+  "description": "A cluster plugin for sticky sessions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imdone/sticky-cluster.git"
+  },
+  "keywords": [
+    "cluster"
+  ],
+  "author": "Jesse Piascik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imdone/sticky-cluster/issues"
+  },
+  "homepage": "https://github.com/imdone/sticky-cluster"
+}
